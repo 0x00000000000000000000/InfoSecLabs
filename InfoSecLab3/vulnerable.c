@@ -3,7 +3,7 @@
 
 void not_called()
 {
-	printf("Shell created");
+	printf("Shell created\n");
 }
 
 void vulnerable_function(char* string) 
