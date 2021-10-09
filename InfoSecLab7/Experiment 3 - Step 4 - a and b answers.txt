@@ -1,0 +1,8 @@
+How many Ethernet endpoints are visible?
+6
+
+Is your PC's MAC address part of the Ethernet endpoints?
+Yes. It is 02:16:1c:e0:b5:82
+
+How many IP Addresses are visible? Is your PC's IP address part of the IPv4 endpoints?
+46 IP addresses are visible. Yes my IP address, i.e, 192.168.0.111 is present.
